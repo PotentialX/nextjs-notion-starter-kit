@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'None',
-  github: 'https://github.com/PotentialX/',
-  linkedin: '',
+ // twitter: 'None',
+  github: 'PotentialX',
+  //linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
