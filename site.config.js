@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '69300519aa2a465aa70f4f12edd1e3e0',
+  rootNotionPageId: 'CyberPanda-s-Blog-e164ac4231894a1db76b2dfad91bf489',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '说壹话拾',
-  domain: 'https://www.notion.so/69300519aa2a465aa70f4f12edd1e3e0',
-  author: 'LEE',
+  name: 'cyberPanda',
+  domain: 'https://perfect-tiara-508.notion.site/CyberPanda-s-Blog-e164ac4231894a1db76b2dfad91bf489',
+  author: 'wyx',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,8 +17,8 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'chusight1',
-  github: 'chusight',
+  twitter: 'None',
+  github: 'https://github.com/PotentialX/',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
