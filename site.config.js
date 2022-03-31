@@ -12,7 +12,7 @@ module.exports = {
   author: 'wyx',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '记录一些微小的贡献',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
